@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SearchFight.Core.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GoogleURLBase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.googleapis.com</Value>
+    </Setting>
+    <Setting Name="GoogleCxCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3fc5829e68c9c8702</Value>
+    </Setting>
+    <Setting Name="GoogleApiKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AIzaSyB5meOmbnFNUMehzGUA5BJGVBywVEaaWQo</Value>
+    </Setting>
+    <Setting Name="BingURLBase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.cognitive.microsoft.com</Value>
+    </Setting>
+    <Setting Name="BingCustomConfiguration" Type="System.String" Scope="User">
+      <Value Profile="(Default)">62aa0b34-bedf-49dc-971b-5a54f10f685d</Value>
+    </Setting>
+    <Setting Name="BingAccessKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">a04ce50dfc4240e3aee4c3fd713d5738</Value>
+    </Setting>
+    <Setting Name="GoogleServicePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/customsearch/v1</Value>
+    </Setting>
+    <Setting Name="BingServicePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/bingcustomsearch/v7.0/search</Value>
+    </Setting>
+    <Setting Name="BingServiceHeader" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ocp-Apim-Subscription-Key</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

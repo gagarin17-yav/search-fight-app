@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchFight.App": {
+      "commandName": "Project",
+      "commandLineArgs": ".net \"microsoft office\""
+    }
+  }
+}
